@@ -34,7 +34,7 @@
  position: left;
  left: 0;
  width: 15em;
- height: 36em;
+ height: 37em;
  padding: 20px 0;
  transition: all 0.5s ease;/*SOBRE MÍ*/
  flex-direction: column;
@@ -42,7 +42,7 @@
 .content{
  float:right;
  width: 78em;
- height:38.5em;
+ height:39.5em;
  background-color: rgb(5, 104, 12); /*SOBRE MÍ*/
 }
 .content ul {
